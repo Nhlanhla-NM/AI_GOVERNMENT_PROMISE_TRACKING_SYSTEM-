@@ -1,5 +1,5 @@
 # Project Background 
-Project tracks government promises in Central African Republic and Cameroon using news data. It uses automated workflows and AI tools to collect, summarize, and analyze news articles, generating structured insights for monitoring and reporting.
+Project tracks government promises in Central African Republic using news data. It uses automated workflows and AI tools to collect, summarize, and analyze news articles, generating structured insights for monitoring and reporting.
 
 # Project Objective 
 -Collecting and updating data, tracking government promises starting from the present administration
@@ -27,9 +27,44 @@ News RSS → Data Cleaning → AI Summarization → Insight Extraction to Google
 # Visuals
 <img width="918" height="505" alt="Screenshot 2026-04-03 150143" src="https://github.com/user-attachments/assets/75efb31d-5f76-42b4-925a-43eff2285125" />
 
-# Insights
-# Recommendations
-# Tools Used
-# What this project shows 
 
+# Insights
+
+-The government has achieved 37,5% out of 7 of its promises in less than 4 months since
+the elections using generated 15% revenue of mines, capital gained from investors for
+the 28 December 2025 election and initiating a transparent budget.
+
+-The 12,5% out of 7 of government promises that are pending, are caused by
+governments lack of capital and government searching for investors to invest in
+promises/goals
+
+-The 50% out of 7 of government promises that are in progress, the government creates
+efforts working with organizations to achieve goals, for example, the government working
+with the UN for peace and safety.
+
+
+# Recommendations
+
+-The government should prioritize working on high impact economic sectors promises per
+quarter for proper focus on achieving promises.
+
+
+# Tools Used
+
+-Google Sheets 
+
+-Microsoft Power BI
+
+-AI Tools (Groq/Chatgpt)
+
+-Make.com (AI Automation)
+
+# What this project shows 
+-Ability to build automated data workflows using APIs and AI tools
+
+-Skills in collecting, cleaning, and structuring unstructured data for analysis
+
+-Use of AI to generate insights and support data-driven decision-making
+
+-Experience applying data analytics in a real-world NGO context
 
