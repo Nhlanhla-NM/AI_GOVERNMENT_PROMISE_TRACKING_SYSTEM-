@@ -1,8 +1,8 @@
 # Project Background 
-Project tracks government promises in Central African Republic using news data. It uses automated workflows and AI tools to collect, summarize, and analyze news articles, generating structured insights for monitoring and reporting.
+Project tracks government promises in Central African Republic using news data. It uses automated workflows and AI tools to data capture, collect, summarize, and analyze news articles, generating structured insights for monitoring and reporting.
 
 # Project Objective 
--Collecting and updating data, tracking government promises starting from the present administration
+-Data capture and updating data, tracking government promises starting from the present administration
 -Create insight updates on Government promises 
 
 # AI Automation Workflow
@@ -45,8 +45,12 @@ with the UN for peace and safety.
 
 # Recommendations
 
--The government should prioritize working on high impact economic sectors promises per
-quarter for proper focus on achieving promises.
+-The Government should break down goals into monthly targets and measurable KPIs which improves completion rate
+
+-Prioritize high economic impact goals such as infrastructure projects or digital economy 
+
+-Create deadlines for ''in progress'' goals to avoid goals staying in progress forever 
+
 
 
 # Tools Used
@@ -60,9 +64,9 @@ quarter for proper focus on achieving promises.
 -Make.com (AI Automation)
 
 # What this project shows 
--Ability to build automated data workflows using APIs and AI tools
+-Ability to build automated data workflows using AI tools
 
--Skills in collecting, cleaning, and structuring unstructured data for analysis
+-Skills in data capturing, collecting, cleaning, and structuring unstructured data for analysis
 
 -Use of AI to generate insights and support data-driven decision-making
 
