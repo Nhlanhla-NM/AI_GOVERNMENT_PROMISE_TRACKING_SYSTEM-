@@ -1,9 +1,11 @@
 # Project Background 
-Project tracks government promises in Central African Republic using news data. Usage of automated workflows and AI tools to data capture, collect, summarize, and analyze news articles, generating structured insights for monitoring and reporting.
+Project tracks government promises in Central African Republic using news data. Includes data capturing, collecting, summarizing, and analyzing news articles, generating structured insights for monitoring and reporting.
 
 # Project Objective 
 -Collecting, Summarizing and providing insight
+
 -Data capture and updating data, tracking government promises starting from the present administration
+
 -Create insight updates on Government promises 
 
 # AI Automation Workflow
