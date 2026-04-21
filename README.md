@@ -26,6 +26,8 @@ Diagram:
 
 News RSS → Data Cleaning → AI Summarization → Insight Extraction to Google Sheets → Email Report
 
+The update of data being collected by automation can be viewed in this [link](https://docs.google.com/spreadsheets/d/1T6VhPealR_2RFzb3iGZVpr0DzW7yIsZApQHMD3KV0uQ/edit?gid=0#gid=0) 
+
 # Executive Summary
 # Visuals
 <img width="918" height="505" alt="Screenshot 2026-04-03 150143" src="https://github.com/user-attachments/assets/75efb31d-5f76-42b4-925a-43eff2285125" />
