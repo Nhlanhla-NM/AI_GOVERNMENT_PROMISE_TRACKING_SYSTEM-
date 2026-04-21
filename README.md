@@ -8,7 +8,8 @@ Project tracks government promises in Central African Republic using news data. 
 -Create insight updates on Government promises 
 
 # AI Automation Workflow
-<img width="1285" height="602" alt="Screenshot 2026-04-12 235517" src="https://github.com/user-attachments/assets/851f750f-0e86-46bd-8a1c-da7920fd6f43" />
+<img width="1283" height="543" alt="Screenshot 2026-04-21 234945" src="https://github.com/user-attachments/assets/b7e6518f-cce0-4b98-8433-9b4f74ec30a7" />
+
 Automation Process:
 
 System is triggered daily at 12:00 am GMT +2 to collect data from the latest news articles
@@ -19,11 +20,11 @@ System is triggered daily at 12:00 am GMT +2 to collect data from the latest new
 
 -AI Layer- AI tools summarize articles and extract key insights related to government actions and update
 
--Output- Structured summaries are stored in Google Docs and sent as automated reports via email
+-Output- Structured content is stored in Google Sheets and sends an automated reminder of new data via email
 
 Diagram:
 
-News RSS → Data Cleaning → AI Summarization → Insight Extraction to Google Docs → Email Report
+News RSS → Data Cleaning → AI Summarization → Insight Extraction to Google Sheets → Email Report
 
 # Executive Summary
 # Visuals
