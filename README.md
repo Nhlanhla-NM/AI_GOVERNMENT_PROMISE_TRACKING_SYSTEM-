@@ -70,7 +70,7 @@ with the UN for peace and safety.
 
 -Skills in data capturing, collecting, cleaning, and structuring unstructured data for analysis
 
--Use of AI to generate insights and support data-driven decision-making
+-Use of AI to assist in providing clear, effective insights and support data-driven decision-making
 
 -Experience applying data analytics in a real-world NGO context
 
