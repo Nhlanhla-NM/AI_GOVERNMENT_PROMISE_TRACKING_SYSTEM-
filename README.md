@@ -3,7 +3,7 @@ Project tracks government promises in Central African Republic using news data. 
 
 # Project Objective 
 
--Data capture and updating data, tracking government promises starting from the present administration
+-Data capturing and updating data, tracking government promises starting from the present administration
 
 -Create insight updates on Government promises 
 
