@@ -5,7 +5,7 @@ Project tracks government promises in Central African Republic using news data. 
 
 -Data capturing and updating data, tracking government promises starting from the present administration
 
--Create insight updates on Government promises 
+-Creating insight updates on Government promises 
 
 # AI Automation Workflow
 <img width="1283" height="543" alt="Screenshot 2026-04-21 234945" src="https://github.com/user-attachments/assets/b7e6518f-cce0-4b98-8433-9b4f74ec30a7" />
