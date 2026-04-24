@@ -1,5 +1,5 @@
 # Project Background 
-Project tracks government promises in Central African Republic using news data. Includes data capturing, collecting, summarizing, and analyzing news articles, generating structured insights for monitoring and reporting.
+Project tracks government promises in Central African Republic and Cameroon using news data. Includes data capturing, collecting, summarizing, and analyzing news articles, generating structured insights for monitoring and reporting.
 
 # Project Objective 
 
