@@ -66,8 +66,6 @@ The update of data being collected by automation can be viewed in this [link](ht
 
 -Microsoft Power BI
 
--AI Tools (Groq/Chatgpt)
-
 -Make.com (AI Automation)
 
 # What this project shows 
