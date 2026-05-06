@@ -30,7 +30,7 @@ The update of data being collected by automation can be viewed in this [link](ht
 
 # Executive Summary
 # Visuals
-<img width="962" height="540" alt="Screenshot 2026-04-25 021603" src="https://github.com/user-attachments/assets/5e263984-48fa-495d-8323-35e8234750ff" />
+<img width="963" height="536" alt="Screenshot 2026-05-06 133058" src="https://github.com/user-attachments/assets/8b12955e-90d7-4632-b146-e1b2e4b32a3e" />
 <img width="1073" height="560" alt="Screenshot 2026-04-25 020959" src="https://github.com/user-attachments/assets/ad0a1b1d-92d3-4df5-8367-096ead74499e" />
 <img width="1074" height="556" alt="Screenshot 2026-04-25 020214" src="https://github.com/user-attachments/assets/1a745310-6f4e-4b36-ac06-3d762d630705" />
 <img width="795" height="514" alt="Screenshot 2026-04-25 020141" src="https://github.com/user-attachments/assets/0dbada71-b8a3-4a9e-ae2d-d58f38bdf2c5" />
