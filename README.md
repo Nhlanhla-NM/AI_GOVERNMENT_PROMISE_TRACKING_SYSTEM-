@@ -3,9 +3,9 @@ Project tracks government promises in Central African Republic and Cameroon usin
 
 # Project Objective 
 
--Data capturing and updating data, tracking government promises starting from the present administration
+- Data capturing and updating data, tracking government promises starting from the present administration
 
--Creating insight updates on Government promises 
+- Creating insight updates on Government promises 
 
 # AI Automation Workflow
 <img width="1283" height="543" alt="Screenshot 2026-04-21 234945" src="https://github.com/user-attachments/assets/b7e6518f-cce0-4b98-8433-9b4f74ec30a7" />
@@ -14,13 +14,13 @@ Automation Process:
 
 System is triggered daily consistently per 30 minutes to collect data from the latest news articles
 
--Input- News Articles retreived using RSS
+- Input- News Articles retreived using RSS
 
--Processing- Articles are filtered and cleaned to extract relevant content
+- Processing- Articles are filtered and cleaned to extract relevant content
 
--AI Layer- AI tools summarize articles and extract key insights related to government actions and update
+- AI Layer- AI tools summarize articles and extract key insights related to government actions and update
 
--Output- Structured content is stored in Google Sheets and sends an automated reminder of new data via email
+- Output- Structured content is stored in Google Sheets and sends an automated reminder of new data via email
 
 Diagram:
 
@@ -41,39 +41,39 @@ The update of data being collected by automation can be viewed in this [link](ht
 
 # Insights
 
--The President holds the highest concentration of goals, with 31.82% more assignments than other 13+ officials, indicating a centralized workload.
+- The President holds the highest concentration of goals, with 31.82% more assignments than other 13+ officials, indicating a centralized workload.
 
--The Economy sector dominates with 36.36% of total goals, making it the most prioritized sector compared to the 5 other sectors.
+- The Economy sector dominates with 36.36% of total goals, making it the most prioritized sector compared to the 5 other sectors.
 
--Goal updates range from September 2025 to April 2026, reflecting a 7-month monitoring period with unclear update consistency in some goals.
+- Goal updates range from September 2025 to April 2026, reflecting a 7-month monitoring period with unclear update consistency in some goals.
 
--59.09% of goals are currently in progress, suggesting active implementation, though completion rates remain at 22,73%.
+- 59.09% of goals are currently in progress, suggesting active implementation, though completion rates remain at 22,73%.
 
 
 # Recommendations
 
--Redistribute goals across officials to ensure balanced workload and improved efficiency.
+- Redistribute goals across officials to ensure balanced workload and improved efficiency.
 
--Maintain focus on key sectors while ensuring equitable sector representation.
+- Maintain focus on key sectors while ensuring equitable sector representation.
 
--Implement deadlines and milestone tracking for all goals.
+- Implement deadlines and milestone tracking for all goals.
 
 
 
 # Tools Used
 
--Google Sheets 
+- Google Sheets 
 
--Microsoft Power BI
+- Microsoft Power BI
 
--Make.com (AI Automation)
+- Make.com (AI Automation)
 
 # What this project shows 
--Ability to build automated data workflows using AI tools
+- Ability to build automated data workflows using AI tools
 
--Skills in data capturing, collecting, cleaning, and structuring unstructured data for analysis
+- Skills in data capturing, collecting, cleaning, and structuring unstructured data for analysis
 
--Providing clear, effective insights and support data-driven decision-making
+- Providing clear, effective insights and support data-driven decision-making
 
--Experience applying data analytics in a real-world NGO context
+- Experience applying data analytics in a real-world NGO context
 
